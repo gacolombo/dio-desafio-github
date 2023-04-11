@@ -1,5 +1,5 @@
 # Dio | Desafio Git/Github
-Desafio da dio sobre o primeiro repositorio github
+Desafio da dio sobre o primeiro repositório github
 
 ## Links Úteis
 
