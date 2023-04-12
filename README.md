@@ -10,3 +10,7 @@ A ideia desse repositório será deixar no readme dele todos os links para o rep
 ## Aula de HTML5/CSS3
 
 [Repositório do git da aula](https://github.com/gacolombo/reforco-html5-css3)
+
+## Aula de FLEXBOX
+
+[Repositório git da aula](https://github.com/gacolombo/reforco-flexbox)
