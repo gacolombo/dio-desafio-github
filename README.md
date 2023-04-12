@@ -14,3 +14,7 @@ A ideia desse repositório será deixar no readme dele todos os links para o rep
 ## Aula de FLEXBOX
 
 [Repositório git da aula](https://github.com/gacolombo/reforco-flexbox)
+
+## Projeto Integrador
+
+[Repositório do projeto Integrador](https://github.com/gacolombo/projeto-integrador-dio)
