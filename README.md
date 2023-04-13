@@ -18,3 +18,7 @@ A ideia desse repositório será deixar no readme dele todos os links para o rep
 ## Projeto Integrador
 
 [Repositório do projeto Integrador](https://github.com/gacolombo/projeto-integrador-dio)
+
+## Projeto Instagram
+
+[Repositório do projeto Instagram](https://github.com/gacolombo/dio-desafio-instagram)
